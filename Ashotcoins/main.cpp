@@ -38,7 +38,7 @@ void main()
 {
 	setlocale(LC_ALL, "russian");
 		cout << "-------------------------------------------" << endl;
-		cout << "Банк для Ашоткойнов. Version: 0.0.2.7 Alpha" << endl;
+		cout << "Банк для Ашоткойнов. Version: 0.0.3.8 Alpha" << endl;
 		cout << "-------------------------------------------" << endl;
 	do
 	{
