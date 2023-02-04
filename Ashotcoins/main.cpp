@@ -47,9 +47,9 @@ void main()
 {
 	setlocale(LC_ALL, "russian");
 		cout << "-------------------------------------------" << endl;
-		cout << "Банк AshotCoins. Версия: 0.0.4.10 Alpha" << endl;
+		cout << "Банк AshotCoins. Версия: 0.0.4.11 Alpha" << endl;
 		cout << "-------------------------------------------" << endl;
-		if (l1 == 200920070 && l2 == 555913746 && l3 == 449936400 && l4 == 123456789 && l5 == 200950087 && l6 == 15044512 && l7 == 321654987 && l8 == 556432519 && l9 == 895257157 && l10 == 937278522 && p1 == 4605 && p2 == 1119 && p3 == 9140 && p4 == 642 && p5 == 3619 && p6 == 1849 && p7 == 3496 && p8 == 438 && p9 == 1795 && p10 == 4405 && balance1 == 10 && balance2 == 7 && balance3 == 6 && balance4 == 6 && balance5 == 8 && balance6 == 6 && balance7 == 4 && balance8 == 4 && balance9 == 4 && balance10 == 2 && dev == 8624)
+		if (l1 == 200920070 && l2 == 555913746 && l3 == 449936400 && l4 == 123456789 && l5 == 200950087 && l6 == 15044512 && l7 == 321654987 && l8 == 556432519 && l9 == 895257157 && l10 == 937278522 && p1 == 4605 && p2 == 1119 && p3 == 9140 && p4 == 642 && p5 == 3619 && p6 == 1849 && p7 == 3496 && p8 == 438 && p9 == 1795 && p10 == 4405 && balance1 == 10 && balance2 == 7 && balance3 == 6 && balance4 == 6 && balance5 == 8 && balance6 == 6 && balance7 == 4 && balance8 == 2 && balance9 == 4 && balance10 == 2 && dev == 8624)
 		{
 			p1 += 520;
 			p2 += 1785;
@@ -341,7 +341,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -623,7 +623,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -906,7 +906,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -1189,7 +1189,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -1472,7 +1472,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -1745,7 +1745,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -2027,7 +2027,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -2306,7 +2306,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -2588,7 +2588,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -2868,7 +2868,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -2883,7 +2883,7 @@ void main()
 				{
 					cout << "----------------------------------------" << endl;
 					cout << "Developer Information" << endl;
-					cout << "\"AshotCoins\" app version 0.0.4.10_Alpha" << endl;
+					cout << "\"AshotCoins\" app version 0.0.4.11_Alpha" << endl;
 					cout << "Developer E-mail: ashotcoins092@gmail.com" << endl;
 					cout << "Programming language: C++" << endl;
 					cout << "----------------------------------------" << endl;
