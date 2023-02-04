@@ -1,7 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
 //#define WHILE
-//Test
 double l1 = 200920070;
 double l2 = 555913746;
 double l3 = 449936400;
