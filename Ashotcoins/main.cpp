@@ -1,5 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
+// test compiler
+// test git
 //#define WHILE
 double l1 = 200920070;
 double l2 = 555913746;
