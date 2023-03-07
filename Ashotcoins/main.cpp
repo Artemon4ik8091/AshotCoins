@@ -10,10 +10,10 @@ double l4 = 123456789;
 double l5 = 200950087;
 double l6 = 15044512;
 double l7 = 321654987;
-double l8 = 556432519;
+double l8 = 101015535;
 double l9 = 895257157;
 double l10 = 937278522;
-double l11 = 895257157;
+double l11 = 101015535;
 double p1 = 4605;
 double p2 = 1119;
 double p3 = 9140;
@@ -21,10 +21,10 @@ double p4 = 642;
 double p5 = 3619;
 double p6 = 1849;
 double p7 = 3496;
-double p8 = 438;
+double p8 = 1976;
 double p9 = 1795;
 double p10 = 4405;
-//double p11 = 1795;
+//double p11 = 2566;
 double buffer;
 double buffer2;
 double n;
@@ -39,7 +39,7 @@ double balance7 = 4;
 double balance8 = 2;
 double balance9 = 4;
 double balance10 = 112;
-//double balance11 = 2;
+double balance11 = 2;
 double c;
 double dev = 8624;
 double b;
@@ -49,9 +49,9 @@ void main()
 {
 	setlocale(LC_ALL, "russian");
 		cout << "-------------------------------------------" << endl;
-		cout << "Банк AshotCoins. Версия: 0.0.4.10 Alpha" << endl;
+		cout << "Банк AshotCoins. Версия: 0.0.4.11 Alpha" << endl;
 		cout << "-------------------------------------------" << endl;
-		if (l1 == 200920070 && l2 == 555913746 && l3 == 449936400 && l4 == 123456789 && l5 == 200950087 && l6 == 15044512 && l7 == 321654987 && l8 == 556432519 && l9 == 895257157 && l10 == 937278522 && p1 == 4605 && p2 == 1119 && p3 == 9140 && p4 == 642 && p5 == 3619 && p6 == 1849 && p7 == 3496 && p8 == 438 && p9 == 1795 && p10 == 4405 && balance1 == 10 && balance2 == 7 && balance3 == 6 && balance4 == 6 && balance5 == 8 && balance6 == 6 && balance7 == 4 && balance8 == 2 && balance9 == 4 && balance10 == 112 && dev == 8624)
+		if (l1 == 200920070 && l2 == 555913746 && l3 == 449936400 && l4 == 123456789 && l5 == 200950087 && l6 == 15044512 && l7 == 321654987 && l8 == 556432519 && l9 == 895257157 && l10 == 937278522 && p1 == 4605 && p2 == 1119 && p3 == 9140 && p4 == 642 && p5 == 3619 && p6 == 1849 && p7 == 3496 && p8 == 1976 && p9 == 1795 && p10 == 4405 && balance1 == 10 && balance2 == 7 && balance3 == 6 && balance4 == 6 && balance5 == 8 && balance6 == 6 && balance7 == 4 && balance8 == 2 && balance9 == 4 && balance10 == 112 && dev == 8624)
 		{
 			p1 += 520;
 			p2 += 1785;
@@ -60,7 +60,7 @@ void main()
 			p5 += 904;
 			p6 += 2654;
 			p7 += 825;
-			p8 += 6590;
+			p8 += 590;
 			p9 += 635;
 			p10 += 173;
 			do
@@ -301,7 +301,7 @@ void main()
 							cout << "5. Илья Игоревич. Login: 200950087. Balance: " << balance5 << endl;
 							cout << "6. Никита Денисович. Login: 15044512. Balance: " << balance6 << endl;
 							cout << "7. Игорь Александрович. Login: 321654987. Balance: " << balance7 << endl;
-							cout << "8. Николай Ковалёв. Login: 556432519. Balance: " << balance8 << endl;
+							cout << "8. Георгий Николаевич. Login: 101015535. Balance: " << balance8 << endl;
 							cout << "9. Иван Николаевич. Login: 895257157. Balance: " << balance9 << endl;
 							cout << "10. Глеб Анатольевич. Login: 937278522. Balance: " << balance10 << endl;
 							cout << "-------------------------------------------------------------" << endl;
@@ -343,7 +343,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -583,7 +583,7 @@ void main()
 							cout << "5. Илья Игоревич. Login: 200950087. Balance: " << balance5 << endl;
 							cout << "6. Никита Денисович. Login: 15044512. Balance: " << balance6 << endl;
 							cout << "7. Игорь Александрович. Login: 321654987. Balance: " << balance7 << endl;
-							cout << "8. Николай Ковалёв. Login: 556432519. Balance: " << balance8 << endl;
+							cout << "8. Георгий Николаевич. Login: 101015535. Balance: " << balance8 << endl;
 							cout << "9. Иван Николаевич. Login: 895257157. Balance: " << balance9 << endl;
 							cout << "10. Глеб Анатольевич. Login: 937278522. Balance: " << balance10 << endl;
 							cout << "-------------------------------------------------------------" << endl;
@@ -625,7 +625,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -866,7 +866,7 @@ void main()
 							cout << "5. Илья Игоревич. Login: 200950087. Balance: " << balance5 << endl;
 							cout << "6. Никита Денисович. Login: 15044512. Balance: " << balance6 << endl;
 							cout << "7. Игорь Александрович. Login: 321654987. Balance: " << balance7 << endl;
-							cout << "8. Николай Ковалёв. Login: 556432519. Balance: " << balance8 << endl;
+							cout << "8. Георгий Николаевич. Login: 101015535. Balance: " << balance8 << endl;
 							cout << "9. Иван Николаевич. Login: 895257157. Balance: " << balance9 << endl;
 							cout << "10. Глеб Анатольевич. Login: 937278522. Balance: " << balance10 << endl;
 							cout << "-------------------------------------------------------------" << endl;
@@ -908,7 +908,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -1149,7 +1149,7 @@ void main()
 							cout << "5. Илья Игоревич. Login: 200950087. Balance: " << balance5 << endl;
 							cout << "6. Никита Денисович. Login: 15044512. Balance: " << balance6 << endl;
 							cout << "7. Игорь Александрович. Login: 321654987. Balance: " << balance7 << endl;
-							cout << "8. Николай Ковалёв. Login: 556432519. Balance: " << balance8 << endl;
+							cout << "8. Георгий Николаевич. Login: 101015535. Balance: " << balance8 << endl;
 							cout << "9. Иван Николаевич. Login: 895257157. Balance: " << balance9 << endl;
 							cout << "10. Глеб Анатольевич. Login: 937278522. Balance: " << balance10 << endl;
 							cout << "-------------------------------------------------------------" << endl;
@@ -1191,7 +1191,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -1432,7 +1432,7 @@ void main()
 							cout << "5. Илья Игоревич. Login: 200950087. Balance: " << balance5 << endl;
 							cout << "6. Никита Денисович. Login: 15044512. Balance: " << balance6 << endl;
 							cout << "7. Игорь Александрович. Login: 321654987. Balance: " << balance7 << endl;
-							cout << "8. Николай Ковалёв. Login: 556432519. Balance: " << balance8 << endl;
+							cout << "8. Георгий Николаевич. Login: 101015535. Balance: " << balance8 << endl;
 							cout << "9. Иван Николаевич. Login: 895257157. Balance: " << balance9 << endl;
 							cout << "10. Глеб Анатольевич. Login: 937278522. Balance: " << balance10 << endl;
 							cout << "-------------------------------------------------------------" << endl;
@@ -1474,7 +1474,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -1705,7 +1705,7 @@ void main()
 							cout << "5. Илья Игоревич. Login: 200950087. Balance: " << balance5 << endl;
 							cout << "6. Никита Денисович. Login: 15044512. Balance: " << balance6 << endl;
 							cout << "7. Игорь Александрович. Login: 321654987. Balance: " << balance7 << endl;
-							cout << "8. Николай Ковалёв. Login: 556432519. Balance: " << balance8 << endl;
+							cout << "8. Георгий Николаевич. Login: 101015535. Balance: " << balance8 << endl;
 							cout << "9. Иван Николаевич. Login: 895257157. Balance: " << balance9 << endl;
 							cout << "10. Глеб Анатольевич. Login: 937278522. Balance: " << balance10 << endl;
 							cout << "-------------------------------------------------------------" << endl;
@@ -1747,7 +1747,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -1987,7 +1987,7 @@ void main()
 							cout << "5. Илья Игоревич. Login: 200950087. Balance: " << balance5 << endl;
 							cout << "6. Никита Денисович. Login: 15044512. Balance: " << balance6 << endl;
 							cout << "7. Игорь Александрович. Login: 321654987. Balance: " << balance7 << endl;
-							cout << "8. Николай Ковалёв. Login: 556432519. Balance: " << balance8 << endl;
+							cout << "8. Георгий Николаевич. Login: 101015535. Balance: " << balance8 << endl;
 							cout << "9. Иван Николаевич. Login: 895257157. Balance: " << balance9 << endl;
 							cout << "10. Глеб Анатольевич. Login: 937278522. Balance: " << balance10 << endl;
 							cout << "-------------------------------------------------------------" << endl;
@@ -2029,7 +2029,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -2040,7 +2040,7 @@ void main()
 				}
 				if (buffer == l8 && buffer2 == p8)
 				{
-					cout << "Здравствуйте, Николай Ковалёв" << endl;
+					cout << "Здравствуйте, Георгий Николаевич" << endl;
 					cout << "------------------------------" << endl;
 					while (true)
 					{
@@ -2266,7 +2266,7 @@ void main()
 							cout << "5. Илья Игоревич. Login: 200950087. Balance: " << balance5 << endl;
 							cout << "6. Никита Денисович. Login: 15044512. Balance: " << balance6 << endl;
 							cout << "7. Игорь Александрович. Login: 321654987. Balance: " << balance7 << endl;
-							cout << "8. Николай Ковалёв. Login: 556432519. Balance: " << balance8 << endl;
+							cout << "8. Георгий Николаевич. Login: 101015535. Balance: " << balance8 << endl;
 							cout << "9. Иван Николаевич. Login: 895257157. Balance: " << balance9 << endl;
 							cout << "10. Глеб Анатольевич. Login: 937278522. Balance: " << balance10 << endl;
 							cout << "-------------------------------------------------------------" << endl;
@@ -2308,7 +2308,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -2548,7 +2548,7 @@ void main()
 							cout << "5. Илья Игоревич. Login: 200950087. Balance: " << balance5 << endl;
 							cout << "6. Никита Денисович. Login: 15044512. Balance: " << balance6 << endl;
 							cout << "7. Игорь Александрович. Login: 321654987. Balance: " << balance7 << endl;
-							cout << "8. Николай Ковалёв. Login: 556432519. Balance: " << balance8 << endl;
+							cout << "8. Георгий Николаевич. Login: 101015535. Balance: " << balance8 << endl;
 							cout << "9. Иван Николаевич. Login: 895257157. Balance: " << balance9 << endl;
 							cout << "10. Глеб Анатольевич. Login: 937278522. Balance: " << balance10 << endl;
 							cout << "-------------------------------------------------------------" << endl;
@@ -2590,7 +2590,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -2828,7 +2828,7 @@ void main()
 							cout << "5. Илья Игоревич. Login: 200950087. Balance: " << balance5 << endl;
 							cout << "6. Никита Денисович. Login: 15044512. Balance: " << balance6 << endl;
 							cout << "7. Игорь Александрович. Login: 321654987. Balance: " << balance7 << endl;
-							cout << "8. Николай Ковалёв. Login: 556432519. Balance: " << balance8 << endl;
+							cout << "8. Георгий Николаевич. Login: 101015535. Balance: " << balance8 << endl;
 							cout << "9. Иван Николаевич. Login: 895257157. Balance: " << balance9 << endl;
 							cout << "10. Глеб Анатольевич. Login: 937278522. Balance: " << balance10 << endl;
 							cout << "-------------------------------------------------------------" << endl;
@@ -2870,7 +2870,7 @@ void main()
 							cout << endl;
 							cout << "-------------------------------" << endl;
 							cout << "AshotCoins App" << endl;
-							cout << "Версия приложения: 0.0.4.10 Alpha" << endl;
+							cout << "Версия приложения: 0.0.4.11 Alpha" << endl;
 							cout << "-------------------------------" << endl;
 							cout << endl;
 							cout << "-----------------------------------------" << endl;
@@ -2885,7 +2885,7 @@ void main()
 				{
 					cout << "----------------------------------------" << endl;
 					cout << "Developer Information" << endl;
-					cout << "\"AshotCoins\" app version 0.0.4.10_Alpha" << endl;
+					cout << "\"AshotCoins\" app version 0.0.4.11_Alpha" << endl;
 					cout << "Developer E-mail: ashotcoins092@gmail.com" << endl;
 					cout << "Programming language: C++" << endl;
 					cout << "----------------------------------------" << endl;
